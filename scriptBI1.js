@@ -42,7 +42,6 @@ function startTyping() {
 		"…zárszóként hadd biztosítsalak arról, hogy a start gombon a \"megnyitás\" szót SZÁNDÉKOSAN írtam külön", 
 	    	":-D",
 	    	"de őszintén remélem, hogy ezzel a csínytevéssel nem okoztam neked tartós szívritmuszavart! :-D (Max. átmenetit.)",
-		"",
 	    	"Bocs, de nem hagyhattam ki. ;-)",
 		"Néha muszály"
 		
