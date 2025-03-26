@@ -38,7 +38,7 @@ function startTyping() {
 		"(Algoritmusom azóta se tudja megfejteni az anomáliát, miként fajulhat barátsággá egy ilyen kényes visszáru-ügy.)",
 		"",
 		":-) Éééééééééééés ...",
-		"... zárásként hadd nyugtassalak meg: a Start gombon a \"megnyitás\" igekötőjét természetesen SZÁNT SZÁNDÉKKAL írtam külön – kizárólag ijesztési célzattal,", 
+		"... zárásként hadd nyugtassalak meg: a Start gombon a \"megnyitás\" igekötőjét természetesen SZÁNT SZÁNDÉKKAL írtam külön – kizárólag ijesztési céllal,", 
 	    	":-P :-D",
 	    	"de remélem, ezzel a kis csínytevéssel nem okoztam tartós szívritmuszavart – legfeljebb átmenetit!",
 	    	";-)",
