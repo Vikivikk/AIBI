@@ -34,12 +34,12 @@ function startTyping() {
 	    	"",
 		"Bízom benne, hogy van pozitív fejlemény sárgatinta-fronton.",
 	    	"",
-	    	"Teljes meglepődéssel konstatáltam, hogy befejezted a webáruházi ténykedést. Egyúttal megértem, hiszen a notórius reklamálók (tudom, hogy tudod, hogy kire célzok…) jócskán próbára tehették a türelmedet.",
+	    	"Teljes meglepődéssel konstatáltam, hogy befejezted a webáruházi ténykedést. Egyúttal megértem, hiszen a notórius reklamálók (tudom, hogy tudod, hogy kire célzok) jócskán próbára tehették a türelmedet.",
 		"",
 		"Algoritmusom azóta se tudja megfejteni az anomáliát, miként fajulhat barátsággá egy ilyen kényes visszáru-ügy.",
 		"",
-		":-) Éééééééééééés…",
-		"…zárszóként hadd biztosítsalak arról, hogy a start gombon a \"megnyitás\" szót SZÁNDÉKOSAN írtam külön", 
+		":-) Éééééééééééés ...",
+		"... zárszóként hadd biztosítsalak arról, hogy a start gombon a \"megnyitás\" szót SZÁNDÉKOSAN írtam külön", 
 	    	":-D",
 	    	"de őszintén remélem, hogy ezzel a csínytevéssel nem okoztam neked tartós szívritmuszavart! :-D (Max. átmenetit.)",
 	    	"Bocs, de nem hagyhattam ki. ;-)",
@@ -78,7 +78,7 @@ function startTyping() {
 
     function typeMiniText() {
         let lastPara = document.getElementById('letterContent').lastChild;
-        let miniText = ".  . . ööööööööö . .  .  . pardon ";
+        let miniText = ".  . . ööööööööö . . . .pardon";
         typeTextCharacterByCharacter(miniText, lastPara, function() {
             setTimeout(reverseDelete, 1000);
         }, 70);
@@ -86,12 +86,12 @@ function startTyping() {
 
     function reverseDelete() {
         let content = document.getElementById('letterContent').innerHTML;
-        let lastPartIndex = content.lastIndexOf(".  . . ööööööööö . .  .  . pardon ");
+        let lastPartIndex = content.lastIndexOf(".  . . ööööööööö . . . .pardon");
         removeTextCharacterByCharacter(lastPartIndex + 17, content);
     }
 
     function removeTextCharacterByCharacter(index, content) {
-        if (index >= content.lastIndexOf(".  . . ööööööööö . .  .  . pardon ")) {
+        if (index >= content.lastIndexOf(".  . . ööööööööö . . . .pardon")) {
             document.getElementById('letterContent').innerHTML = content.substring(0, index);
             if (!isTypingPlaying) {
                 audio.play();
