@@ -41,7 +41,7 @@ function startTyping() {
 		":-) Éééééééééééés ...",
 		"... zárszóként hadd biztosítsalak arról, hogy a start gombon a \"megnyitás\" szó igekötőjét DIREKT írtam külön, ijesztgetési szándékkal,", 
 	    	":-D :-D",
-	    	"de őszintén remélem, hogy ezzel a csínytevéssel nem okoztam neked tartós szívritmuszavart! (Max. átmenetit.)",
+	    	"de remélem, hogy ezzel a csínytevéssel nem okoztam neked tartós szívritmuszavart! (Max. átmenetit.)",
 	    	"Bocs, de nem hagyhattam ki. ;-)",
 		"Néha muszály"
 		
