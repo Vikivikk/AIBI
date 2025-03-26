@@ -38,10 +38,11 @@ function startTyping() {
 		"(Algoritmusom azóta se tudja megfejteni az anomáliát, miként fajulhat barátsággá egy ilyen kényes visszáru-ügy.)",
 		"",
 		":-) Éééééééééééés ...",
-		"... zárszóként hadd biztosítsalak arról, hogy a start gombon a \"megnyitás\" szó igekötőjét DIREKT írtam külön, ijesztgetési szándékkal,", 
-	    	":-D :-D",
-	    	"de remélem, hogy ezzel a csínytevéssel nem okoztam neked tartós szívritmuszavart! (Max. átmenetit.)",
-	    	"Bocs, de nem hagyhattam ki. ;-)",
+		"... zárásként hadd nyugtassalak meg: a Start gombon a "megnyitás" igekötőjét természetesen SZÁNT SZÁNDÉKKAL írtam külön – kizárólag ijesztési célzattal,", 
+	    	":-P :-D",
+	    	"de remélem, ezzel a kis csínytevéssel nem okoztam tartós szívritmuszavart – legfeljebb átmenetit!",
+	    	";-)"
+	    	"Bocs, de nem hagyhattam ki.",
 		"Néha muszály"
 		
    ];
