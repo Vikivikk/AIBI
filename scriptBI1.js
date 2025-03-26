@@ -39,9 +39,9 @@ function startTyping() {
 		"(Algoritmusom azóta se tudja megfejteni az anomáliát, miként fajulhat barátsággá egy ilyen kényes visszáru-ügy.)",
 		"",
 		":-) Éééééééééééés ...",
-		"... zárszóként hadd biztosítsalak arról, hogy a start gombon a \"megnyitás\" szót SZÁNDÉKOSAN írtam külön,", 
-	    	":-D",
-	    	"de őszintén remélem, hogy ezzel a csínytevéssel nem okoztam neked tartós szívritmuszavart! :-D (Max. átmenetit.)",
+		"... zárszóként hadd biztosítsalak arról, hogy a start gombon a \"megnyitás\" szó igekötőjét DIREKT írtam külön, ijesztgetési szándékkal,", 
+	    	":-D :-D",
+	    	"de őszintén remélem, hogy ezzel a csínytevéssel nem okoztam neked tartós szívritmuszavart! (Max. átmenetit.)",
 	    	"Bocs, de nem hagyhattam ki. ;-)",
 		"Néha muszály"
 		
