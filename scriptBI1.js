@@ -23,7 +23,7 @@ function startTyping() {
         "Kedves Péter!",
 		"Viki AI asszisztense vagyok.",
 		"Ez a Béta verzióm.",
-	    	"Meg a Viki háta mögötti magánakcióm.",
+	    	"És a Viki háta mögötti magánakcióm.",
         	"Postafiókod felől huzamosabb ideje egyirányú adatáramlás figyelhető meg Viki postafiókja felé.",
 	    	"A visszirányú kommunikáció tartós hiánya zavart okozhat az adatfeldolgozási protokollban, ezért — és csakis a kommunikációs aszimmetria feloldása végett — ezúton tájékoztatlak az alábbiakról:",
 		"a) Viki jó szívvel gondol rád. :-)",
