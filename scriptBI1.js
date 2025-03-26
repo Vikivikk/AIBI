@@ -31,7 +31,6 @@ function startTyping() {
 		"c) közelmúltbéli üzeneted olvasásakor hangosan felnevetett ezen a sorodon: \"hátha ismét arra vetemedne, hogy ilyen kockázatos vásárlásba vágja a fejszéjét\" :-D", 
 		"",
 		"Remélem, jól telnek a napjaid, és a bridzs iránti szenvedélyed azóta is töretlen.",
-	    	"",
 		"Bízom benne, hogy van pozitív fejlemény sárgatinta-fronton.",
 	    	"",
 	    	"Teljes meglepődéssel konstatáltam, hogy befejezted a webáruházi ténykedést. Egyúttal megértem, hiszen a notórius reklamálók (tudod, kire célzok...) erősen próbára tehették a türelmedet.",
