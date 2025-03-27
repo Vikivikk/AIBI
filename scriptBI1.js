@@ -33,7 +33,7 @@ function startTyping() {
 		"Remélem, jól telnek a napjaid, és azóta is töretlen a bridzs iránti szenvedélyed.",
 		"Bízom benne, hogy sárgatinta-fronton is van pozitív fejlemény.",
 	    	"",
-	    	"Őszintén meglepett, hogy befejezted a webáruházi tevékenységedet. De teljesen érthető, hiszen a notórius reklamálók (tudod, kire célzok...) biztosan szereztek neked pár ősz hajszálat.",
+	    	"Őszintén meglepett, hogy befejezted a webáruházi tevékenységedet. De teljesen érthető, hiszen a notórius reklamálók /tudod, kire célzok.../ biztosan szereztek neked pár ősz hajszálat.",
 		"",
 		"/Algoritmusom azóta is hiába próbálja megfejteni az anomáliát, miként fajulhat egy kényes visszáru-ügy barátsággá./",
 		"",
