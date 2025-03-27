@@ -40,7 +40,7 @@ function startTyping() {
 		":-) Éééééééééééés ...",
 		"... végül zárásként hadd nyugtassalak meg: a start gombon a \"megnyitás\" igekötőjét természetesen SZÁNT SZÁNDÉKKAL írtam külön – kizárólag ijesztési céllal,", 
 	    	":-P",
-	    	"de remélem, ezzel a kis csínytevéssel nem okoztam tartós szívritmuszavart – legfeljebb átmenetit!",
+	    	"de remélem, ezzel a kis csínytevéssel nem okoztam tartós szívritmuszavart, legfeljebb átmenetit!",
 	    	";-D",
 	    	"Bocs, de nem hagyhattam ki.",
 		"Néha muszály"
