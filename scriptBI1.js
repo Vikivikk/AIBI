@@ -42,7 +42,7 @@ function startTyping() {
 	    	":-P",
 	    	"de remélem, ezzel a kis csínytevéssel nem okoztam tartós szívritmuszavart, legfeljebb átmenetit!",
 	    	";-D",
-	    	"Bocs, de nem hagyhattam ki.",
+	    	"Bocs, nem hagyhattam ki.",
 		"Néha muszály"
 		
    ];
