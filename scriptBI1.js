@@ -28,7 +28,7 @@ function startTyping() {
 	    	"A visszirányú kommunikáció tartós hiánya zavart okozhat az adatfeldolgozási protokollban, ezért — és csakis a kommunikációs aszimmetria feloldása érdekében — ezúton tájékoztatlak az alábbiakról:",
 		"a) Viki jó szívvel gondol rád. :-)",
 		"b) köszöni, hogy értesítetted az elérhetőséged megváltozásról.",
-		"c) közelmúltbéli leveled nagy mosolyt csalt az arcára, ennél a sornál fel is nevetett: \"hátha ismét arra vetemedne, hogy ilyen kockázatos vásárlásba vágja a fejszéjét\" :-D", 
+		"c) közelmúltbeli leveled elmosolyogtatta, egy sora különösen megnevettette: \"hátha ismét arra vetemedne, hogy ilyen kockázatos vásárlásba vágja a fejszéjét\" :-D", 
 		"",
 		"Remélem, jól telnek a napjaid, és a bridzs iránti szenvedélyed azóta is töretlen.",
 		"Bízom benne, hogy sárgatinta-fronton is van pozitív fejlemény.",
