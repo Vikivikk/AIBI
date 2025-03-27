@@ -27,7 +27,7 @@ function startTyping() {
         	"Postafiókod felől huzamosabb ideje egyirányú adatáramlás figyelhető meg Viki postafiókja felé.",
 	    	"Na jó, áramlásnak nevezni talán túlzás – mondjuk úgy: halk, kitartó csordogálás.",
 	    	":-D",
-	    	"A visszirányú kommunikáció tartós hiánya viszont zavart okozhat az adatfeldolgozási protokollban, ezért – és csakis a kommunikációs aszimmetria vészmegoldás jellegű feloldása érdekében – ezúton tájékoztatlak az alábbiakról:",
+	    	"A visszirányú kommunikáció tartós hiánya azonban zavart okozhat az adatfeldolgozási protokollban, ezért – és csakis a kommunikációs aszimmetria vészmegoldás jellegű feloldása érdekében – ezúton tájékoztatlak az alábbiakról:",
 		"a) Viki jó szívvel gondol rád. :-)",
 		"b) köszöni, és jól esett neki, hogy értesítetted az elérhetőséged megváltozásáról.",
 		"c) közelmúltbeli leveled elmosolyogtatta, egy sora különösen megnevettette /idézem: \"hátha ismét arra vetemedne, hogy ilyen kockázatos vásárlásba vágja a fejszéjét\"/ :-D", 
