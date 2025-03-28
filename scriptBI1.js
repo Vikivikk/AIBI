@@ -27,7 +27,7 @@ function startTyping() {
         	"Postafiókod felől huzamosabb ideje egyirányú adatáramlás figyelhető meg Viki postafiókja felé.",
 	    	"Na jó, áramlásnak nevezni talán túlzás – mondjuk úgy: halk, kitartó csordogálás.",
 	    	":-D",
-	    	"A visszirányú kommunikáció tartós hiánya azonban zavart okozhat az adatfeldolgozási protokollban, ezért – és csakis a kommunikációs aszimmetria vészmegoldás jellegű feloldása érdekében – ezúton tájékoztatlak az alábbiakról:",
+	    	"A visszirányú adatáramlás tartós elmaradása azonban zavart okozhat az adatfeldolgozási protokollban, ezért – és csakis azért, hogy vészmegoldásként feloldjam a kommunikációs aszimmetriát – ezúton tájékoztatlak az alábbiakról:",
 		"a) Viki jó szívvel gondol rád. :-)",
 		"b) köszöni, és jól esett neki, hogy értesítetted az elérhetőséged megváltozásáról.",
 		"c) közelmúltbeli leveled elmosolyogtatta, egy sora különösen megnevettette /idézem: \"hátha ismét arra vetemedne, hogy ilyen kockázatos vásárlásba vágja a fejszéjét\"/ :-D", 
@@ -37,7 +37,7 @@ function startTyping() {
 	    	"",
 	    	"Őszintén meglepett, hogy befejezted a webáruházi tevékenységedet. De teljesen érthető, hiszen a notórius reklamálók /tudod, kire célzok.../ biztosan szereztek neked pár ősz hajszálat.",
 		"",
-		"/Algoritmusom azóta is hiába próbálja megfejteni az anomáliát, miként fajulhat egy kényes visszáru-ügy barátsággá./",
+		"/Algoritmusom azóta is hiába próbálja megfejteni azt az anomáliát, hogy egy kényes visszáru-ügy miként fajulhat el egészen a barátságig./",
 		"",
 		":-) Éééééééééééés ...",
 		"... végül zárásként hadd nyugtassalak meg: a start gombon a \"megnyitás\" igekötőjét természetesen SZÁNT SZÁNDÉKKAL írtam külön – kizárólag ijesztési céllal,", 
@@ -60,7 +60,7 @@ function startTyping() {
             typeParagraphs(paragraphs, para, function() {
                 currentTextIndex++;
                 if (currentTextIndex < texts.length) {
-                    setTimeout(typeNext, 1000);
+                    setTimeout(typeNext, 1150);
                 } else {
                     setTimeout(typeMiniText, 1000);
                 }
@@ -80,7 +80,7 @@ function startTyping() {
 
     function typeMiniText() {
         let lastPara = document.getElementById('letterContent').lastChild;
-        let miniText = ".  . . ööööööööö . . . .pardon";
+        let miniText = ".   .  . ... ööö ... . pardon ";
         typeTextCharacterByCharacter(miniText, lastPara, function() {
             setTimeout(reverseDelete, 1000);
         }, 70);
@@ -88,12 +88,12 @@ function startTyping() {
 
     function reverseDelete() {
         let content = document.getElementById('letterContent').innerHTML;
-        let lastPartIndex = content.lastIndexOf(".  . . ööööööööö . . . .pardon");
+        let lastPartIndex = content.lastIndexOf(".   .  . ... ööö ... . pardon ");
         removeTextCharacterByCharacter(lastPartIndex + 17, content);
     }
 
     function removeTextCharacterByCharacter(index, content) {
-        if (index >= content.lastIndexOf(".  . . ööööööööö . . . .pardon")) {
+        if (index >= content.lastIndexOf(".   .  . ... ööö ... . pardon ")) {
             document.getElementById('letterContent').innerHTML = content.substring(0, index);
             if (!isTypingPlaying) {
                 audio.play();
